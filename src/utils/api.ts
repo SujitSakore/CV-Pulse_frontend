@@ -6,7 +6,7 @@ export const analyzeResume = async (file: File, jobDescription: string): Promise
     formData.append('resume', file);
     formData.append('jobDescription', jobDescription);
     
-    const response = await fetch('http://localhost:3001/api/analyze', {
+    const response = await fetch('https://resume-backend-3lhr.onrender.com/api/analyze', {
       method: 'POST',
       body: formData,
     });
