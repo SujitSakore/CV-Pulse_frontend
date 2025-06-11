@@ -16,7 +16,7 @@ File Parsing: pdf-parse for extracting text from resumes
 Deployment: Netlify (frontend) & Render (backend)
 Optional/Stretch: MongoDB or Supabase integration for persistent analysis (in progress)
 
-✅ Core Features
+✅ Core Features:
 1. Upload Multiple Resumes
 Supports PDF format
 Drag-and-drop or file picker
