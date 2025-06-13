@@ -8,7 +8,7 @@ Frontend (React, Vite, deployed on Netlify):
 Backend (Node.js with Express, deployed on Render):
 🔗 https://resume-backend-3lhr.onrender.com
 
-🧑‍💻 Tech Stack
+🧑‍💻 Tech Stack:
 Frontend: React (Vite)
 Backend: Node.js + Express
 AI Agent: LangChain (JavaScript) + OpenAI API
