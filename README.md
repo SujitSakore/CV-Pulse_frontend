@@ -1,7 +1,7 @@
 🔍 Overview:
 This is a full-stack AI-powered web application designed to help HR professionals efficiently shortlist candidates by analyzing uploaded resumes against a given job description (JD). The system uses a LangChain agent powered by OpenAI to score each resume, extract relevant strengths and weaknesses, and generate a final ranked shortlist of candidates.
 
-🌐 Live Demo
+🌐 Live Demo:
 Frontend (React, Vite, deployed on Netlify):
 🔗 https://resume-score-frontend.netlify.app/
 
